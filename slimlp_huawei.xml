@@ -4,8 +4,8 @@
      <!-- Device Folders, Kernel & Proprietary BLOBS -->
      <project path="vendor/huawei" name="SlimLP-Y300/proprietary_vendor_huawei" remote="github" revision="lp5.0"/>
      <project path="kernel/huawei/huawei-kernel-3.4" name="SlimLP-Y300/chil360-kernel" remote="github" revision="lp5.0"/>
-     <project path="device/huawei/msm7x27a-common" name="SlimLP-Y300/android_device_huawei_msm7x27a-common" remote="github" revision="lp5.0"/>
-     <project path="device/huawei/u8833" name="SlimLP-Y300/android_device_huawei_u8833" remote="github" revision="lp5.0"/>
+     <project path="device/huawei/msm7x27a-common" name="DavidVazGuijarro/android_device_huawei_msm7x27a-common" remote="github" revision="lp5.0"/>
+     <project path="device/huawei/u8833" name="DavidVazGuijarro/android_device_huawei_u8833" remote="github" revision="lp5.0"/>
      <project path="device/huawei/u8951" name="DavidVazGuijarro/android_device_huawei_u8951" remote="github" revision="lp5.0"/>
      <project path="device/huawei/u8825" name="SlimLP-Y300/android_device_huawei_u8825" remote="github" revision="lp5.0"/>
 
@@ -24,8 +24,6 @@
      <!-- Eleven -->
      <project path="packages/apps/Eleven" name="CyanogenMod/android_packages_apps_Eleven" remote="github" revision="cm-12.0" />
      
-     <!-- ODPUpdater -->
-     <project path="packages/apps/ODPUpdater" name="OpenDesireProject/android_packages_apps_ODPUpdater" remote="github" revision="cm-12.0" />
 </manifest>
 
  
